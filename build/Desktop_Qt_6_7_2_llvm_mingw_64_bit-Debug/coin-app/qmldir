@@ -1,5 +1,0 @@
-module coin-app
-typeinfo appcoin-app.qmltypes
-prefer :/qt/qml/coin-app/
-Main 1.0 Main.qml
-
