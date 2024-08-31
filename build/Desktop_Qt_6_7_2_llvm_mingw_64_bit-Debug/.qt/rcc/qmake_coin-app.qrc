@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/coin-app">
+    <file alias="qmldir">C:/Users/Timmy/Documents/GitHub/coin-app/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/coin-app/qmldir</file>
+  </qresource>
+</RCC>
+

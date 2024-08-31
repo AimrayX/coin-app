@@ -1,0 +1,12 @@
+--bare
+-I
+C:/Users/Timmy/Documents/GitHub/coin-app/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug
+-I
+E:/Qt/6.7.2/llvm-mingw_64/./qml
+--resource
+C:/Users/Timmy/Documents/GitHub/coin-app/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/.qt/rcc/qmake_coin-app.qrc
+--resource
+C:/Users/Timmy/Documents/GitHub/coin-app/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/.qt/rcc/appcoin-app_raw_qml_0.qrc
+C:/Users/Timmy/Documents/GitHub/coin-app/Main.qml
+--json
+C:/Users/Timmy/Documents/GitHub/coin-app/build/Desktop_Qt_6_7_2_llvm_mingw_64_bit-Debug/appcoin-app_qmllint.json
